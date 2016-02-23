@@ -1,0 +1,62 @@
+.MainPageContent {
+  margin-left: 12%;
+
+}
+.topBoxcontainer {
+  background-color: whitesmoke;
+  margin-bottom: 2%;
+  height: 45px;
+}
+.octicon {
+  margin-left: 25%;
+
+}
+img {
+  width: 50%;
+  border-radius: 4%;
+}
+.asideUserColumnLeft {
+  display: inline-block;
+direction: rtl;
+margin-left: -50px;
+
+}
+.ProfileColumnsHolder {
+  width:100%;
+  display: inline;
+
+}
+.CenterContentBoxContainer {
+  display: inline;
+  width: 50%;
+}
+.ActivityRepoColumnRight {
+  position: absolute;
+  width: 100%;
+  margin-left: -30%;
+  display: inline-block;
+  margin-top: 24px;
+  float:right;
+  background-color: whitesmoke;
+  padding-left:20px;
+}
+.NavTabs {
+list-style-type: none;
+display: inline-block;
+padding-right: 10px;
+height: 525px;
+}
+
+ li {
+  float: right;
+  text-align: center;
+  width: 150px;
+  list-style-type: none;
+}
+ul {margin-top: -31px;
+margin-right: 30%;
+font-size: smaller
+}
+body{
+  display: initial;
+}
